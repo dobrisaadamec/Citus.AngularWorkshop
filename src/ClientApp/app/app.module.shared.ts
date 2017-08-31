@@ -11,6 +11,7 @@ import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
 import { CounterComponent } from './components/counter/counter.component';
 import { ProductappComponent } from './components/productApp/productapp.component';
 import { ProductListComponent } from './components/productApp/product-list.component';
+import { StarComponent } from './components/shared/star.component';
 
 @NgModule({
     declarations: [
@@ -20,7 +21,8 @@ import { ProductListComponent } from './components/productApp/product-list.compo
         FetchDataComponent,
         HomeComponent,
         ProductappComponent,
-        ProductListComponent
+        ProductListComponent,
+        StarComponent
     ],
     imports: [
         CommonModule,
