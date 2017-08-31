@@ -1,0 +1,9 @@
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=KulenDayzApp
+--content-root=e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src
+--file=e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\Views\Home\Index.cshtml
+--file=e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\Views\Shared\Error.cshtml
+--file=e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\Views\Shared\_Layout.cshtml
+--file=e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\Views\_ViewImports.cshtml
+--file=e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\Views\_ViewStart.cshtml

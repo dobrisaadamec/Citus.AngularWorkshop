@@ -1,0 +1,11 @@
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\bin\Release\netcoreapp2.0\KulenDayzApp.deps.json
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\bin\Release\netcoreapp2.0\KulenDayzApp.runtimeconfig.json
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\bin\Release\netcoreapp2.0\KulenDayzApp.runtimeconfig.dev.json
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\bin\Release\netcoreapp2.0\KulenDayzApp.dll
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\bin\Release\netcoreapp2.0\KulenDayzApp.pdb
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\obj\Release\netcoreapp2.0\KulenDayzApp.csproj.CoreCompileInputs.cache
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\obj\Release\netcoreapp2.0\KulenDayzApp.AssemblyInfoInputs.cache
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\obj\Release\netcoreapp2.0\KulenDayzApp.AssemblyInfo.cs
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\obj\Release\netcoreapp2.0\KulenDayzApp.dll
+e:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\obj\Release\netcoreapp2.0\KulenDayzApp.pdb
+E:\Predavanja\KulenDayz2017\Citus.AngularWorkshop\src\obj\Release\netcoreapp2.0\KulenDayzApp.csprojResolveAssemblyReference.cache
