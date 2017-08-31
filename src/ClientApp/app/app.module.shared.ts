@@ -12,6 +12,7 @@ import { CounterComponent } from './components/counter/counter.component';
 import { ProductappComponent } from './components/productApp/productapp.component';
 import { ProductListComponent } from './components/productApp/product-list.component';
 import { StarComponent } from './components/shared/star.component';
+import { ProductService } from './components/productApp/product.service';
 
 @NgModule({
     declarations: [
@@ -36,6 +37,9 @@ import { StarComponent } from './components/shared/star.component';
             { path: 'product-app', component: ProductappComponent },
             { path: '**', redirectTo: 'home' }
         ])
+    ],
+    providers: [
+      ProductService
     ]
 })
 export class AppModuleShared {
